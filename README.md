@@ -36,4 +36,6 @@ Watch this video to get an idea of the project's functionality and flow:
 
 [Demo Video](https://youtu.be/9N5Qa6LMYvQ)
 
+[See all Contributors](https://github.com/TheJoyboyNika/Scheme-Matcher/graphs/contributors) 
+
 Feel free to customize and build upon this project to make a meaningful difference in citizen access to government services.
